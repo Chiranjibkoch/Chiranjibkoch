@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ChiranjibKoch</h1>
 <h3 align="center">I'm passionated developer of full stack web development</h3>
-(img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Chiranjibkoch/Chiranjibkoch/main/giphy.webp")
+![](https://github.com/Chiranjibkoch/chiranjibkoch/hy.webp")
 <p align="left"> <a href="https://twitter.com/chiranjib_koch" target="blank"><img src="https://img.shields.io/twitter/follow/chiranjib_koch?logo=twitter&style=for-the-badge" alt="chiranjib_koch" /></a> </p>
 
 - 📫 How to reach me **chiranjibkoch8761@gmail.com**
