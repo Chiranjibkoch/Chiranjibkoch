@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm ChiranjibKoch</h1>
 <h3 align="center">I'm passionated developer of full stack web development</h3>
 
+![84889ad9e996c2c74ffdf33e73378c66](https://user-images.githubusercontent.com/93111779/209360765-37a1796a-be46-4771-9157-08d29c6a10bb.gif)
+
 <p align="left"> <a href="https://twitter.com/chiranjib_koch" target="blank"><img src="https://img.shields.io/twitter/follow/chiranjib_koch?logo=twitter&style=for-the-badge" alt="chiranjib_koch" /></a> </p>
 
 - 📫 How to reach me **chiranjibkoch8761@gmail.com**
